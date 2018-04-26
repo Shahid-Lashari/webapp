@@ -13,3 +13,4 @@ MAVEN_HOME='/root/maven/apache-maven-3.5.3'
           
        }
    }
+}
